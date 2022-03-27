@@ -18,7 +18,7 @@ This project is intended for educational purpose , Not Allowed to sell.
 
 <img src="https://user-images.githubusercontent.com/76838562/160304591-01e02909-9a5d-4b1c-a892-713810ffa7e6.jpg" align="right" height="900" width="350" >
 
-<img src="https://user-images.githubusercontent.com/76838562/160304620-4b927772-e5ab-4775-a0d4-5a5daca242c9.jpg" align="left" height="900" width="350" >
+<img src="https://user-images.githubusercontent.com/76838562/160305111-f20b8fd9-4752-4d4b-95d5-ad7c59c1401a.jpg" align="left" height="900" width="350" >
 
 <img src="https://user-images.githubusercontent.com/76838562/160304714-01707d56-e9d4-41c3-a30a-7c2ccfe5002e.jpg" align="right" height="900" width="350" >
 
