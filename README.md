@@ -1,5 +1,12 @@
 # Pharamcists-Order-App-and-Managment-Medicine-Stores-App-in-JAVA-with-Laravel-Api
 Android Pharmacists Order App And Managment Stores With Laravel Api , 
+MultiThreading ( RXJAVA ),
+Retrofit handling http requests ,
+local Database( ROOM DB ),
+Laravel Api Backend With MySql ...
+Cloud Firestore Realtime DB
+FCM Firebase Cloud Messaging push notifications ,
+
 Overview of the application on this link in YouTube : 
 https://youtu.be/KFaxFhOc4V8
 
