@@ -20,7 +20,7 @@ Start the XAMPP Local server
 run Apache 
 run MySQL
 Make sure you import database Sql file 'paharmacy DB.sql' in PhpMyAdmin 
-Go to [@Firebase](https://firebase.google.com/) to create project and download your 'google-services.json' then add this file to android project in app file.
+[Go to Firebase](https://firebase.google.com/) to create project and download your 'google-services.json' then add this file to android project in app file.
 ```
 And Start Laravel server 
 
