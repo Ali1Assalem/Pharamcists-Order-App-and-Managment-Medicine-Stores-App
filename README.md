@@ -35,6 +35,7 @@ https://youtu.be/KFaxFhOc4V8
 </p>
 <br>
 
+
 # Screenshots Pharmacists Order App
 <br>
 <p align="center">
@@ -121,15 +122,26 @@ https://youtu.be/KFaxFhOc4V8
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194552014-01593f4b-067a-43d2-b100-6d80af4d8972.png"  width="200" >
-    <img src="https://user-images.githubusercontent.com/76838562/194554875-7bf7e38b-176e-4566-a033-de992f584518.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194554875-7bf7e38b-176e-4566-a033-de992f584518.png"  width="200" >
 
 </p>
 <br>
 
 
 
+# Voyager Web Dashboard
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194558468-2229de65-a742-4bf5-81ec-34589fad2c86.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558563-b45f8fd6-b9fb-4e69-9374-f9916fae1db7.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558605-351cb046-2a90-46da-bbb4-678682c2c376.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558634-41339825-8b23-4835-89e9-2e0d1c85da71.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558686-880107a4-6de3-410f-8427-10ab215c6961.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558929-72982140-3881-4e89-8cb7-6ea07ce85185.png" width="900" >
+  <img src="https://user-images.githubusercontent.com/76838562/194558964-06232347-3d46-447b-8491-9da0ca03cfbb.png" width="900" >
 
-
+</p>
+<br>
 
 ### Author
 
