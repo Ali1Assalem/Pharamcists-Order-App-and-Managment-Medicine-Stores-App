@@ -5,8 +5,8 @@ This is a Pharamcists-Order-App-and-Managment-Medicine-Stores-App which has been
 [ Java ,RXJava MultiThreading ,Retrofit ,Room ,SharedPreferences ,Gson ,Laravel ,Voyager ,MySql ,Firebase ,Firestore ,FCM Push Notifications
 Navigation Drawer ,Picasso ]
 
-branch #master contain pharamcists order app,
-branch #serever contain Laravel Server and MysQl DB 
+branch master contain pharamcists order app <br>
+branch serever contain Laravel Server and MysQl DB <br>
 
 # Main Features :books:
 1. Java
