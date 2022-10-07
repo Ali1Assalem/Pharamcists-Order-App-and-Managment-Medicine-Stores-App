@@ -150,7 +150,7 @@ https://youtu.be/KFaxFhOc4V8
 ```
 MIT License
 
-Copyright (c) 2021 Joery Droppers (https://github.com/Ali1Assalem/Pharamcists-Order-App-and-Managment-Medicine-Stores-App)
+Copyright (c) 2022 Ali Assalem (https://github.com/Ali1Assalem/Pharamcists-Order-App-and-Managment-Medicine-Stores-App)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
