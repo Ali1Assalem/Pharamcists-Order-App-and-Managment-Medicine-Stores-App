@@ -1,4 +1,4 @@
-# Pharamcists-Order-App-and-Managment-Medicine-Stores-App
+## Pharamcists-Order-App-and-Managment-Medicine-Stores-App
 Android Pharmacists Order App And Managment Stores With Laravel and Voyager Dashboard , 
 
 This is a Pharamcists-Order-App-and-Managment-Medicine-Stores-App which has been implemented using
