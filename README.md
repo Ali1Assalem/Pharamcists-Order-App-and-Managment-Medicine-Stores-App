@@ -26,6 +26,14 @@ Navigation Drawer ,Picasso ]
 Overview of the application on this link in YouTube : 
 https://youtu.be/KFaxFhOc4V8
 
+<br><br>
+
+# Database Architecture
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194556231-82429f34-c84f-49d7-b4ca-b8d1fa08d8e2.png" width="900" >
+</p>
+<br>
 
 # Screenshots Pharmacists Order App
 <br>
@@ -123,3 +131,6 @@ https://youtu.be/KFaxFhOc4V8
 
 
 
+### Author
+
+[@ALI](https://www.linkedin.com/in/ali-assalem-4769371a8/)
