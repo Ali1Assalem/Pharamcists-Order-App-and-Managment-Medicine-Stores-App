@@ -71,5 +71,11 @@ https://youtu.be/KFaxFhOc4V8
 </p>
 <br>
 
+# Screenshots Managment Medicine Stores App
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194550271-3396acd3-2e14-4a0e-8c1d-3262aa5b3aa8.png" height="500 width="500" >
 
+</p>
+<br>
 
