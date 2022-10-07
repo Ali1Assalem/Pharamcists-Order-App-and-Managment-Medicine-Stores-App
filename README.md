@@ -29,6 +29,14 @@ https://youtu.be/KFaxFhOc4V8
 
 # Screenshots Pharmacists Order App
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194552969-d845ab10-b33a-4f7d-9a06-c11cc500532e.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194552994-db98a955-0a40-4391-a7e3-472841104e60.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194553052-c0abbd89-1a99-4e89-8287-25ec0ba3b795.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194553096-a92c9b41-aab0-4e4a-ae56-37114b5dd32c.png" width="200" >
+</p>
+<br>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/160255836-1d9b1b7b-aed8-487a-b8e1-785916ae3339.jpg" width="200" >
   <img src="https://user-images.githubusercontent.com/76838562/160255893-89bfe041-9dad-4e2d-8408-d89cfb32b41b.jpg" width="200" >
   <img src="https://user-images.githubusercontent.com/76838562/160256070-11448281-605a-475e-8103-622ea17a7780.jpg" width="200" >
@@ -67,7 +75,7 @@ https://youtu.be/KFaxFhOc4V8
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/160304975-2a853d03-9ca3-46ae-a241-5345aaa5279a.jpg" width="200" >
-
+  <img src="https://user-images.githubusercontent.com/76838562/194553333-3bccce25-7b25-40d3-a617-c773f802499c.png" width="200" >
 </p>
 <br>
 
