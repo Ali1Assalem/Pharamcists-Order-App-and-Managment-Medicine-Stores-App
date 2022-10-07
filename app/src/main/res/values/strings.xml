@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Pharmacists Order App</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+
+    <string name="confirm">Confirm</string>
+
+    <string name="already_have_account">Already have account?</string>
+
+    <string name="email">Email</string>
+    <string name="store_app">Store App</string>
+    <string name="dont_have_account">Dont have account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">search and order</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="comment">Comment</string>
+    <string name="user_address">User Address</string>
+    <string name="other_address">Other Address</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="cash_on_delivery">Cash On Delivery</string>
+    <string name="favorites">Favorites</string>
+    <string name="logout">Logout</string>
+    <string name="search">search</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="settings">Settings</string>
+    <string name="pharmacists_app">Pharmacists App</string>
+    <string name="choose_category">Choose Category </string>
+    <string name="company">company</string>
+    <string name="midecine">Midecine</string>
+    <string name="product">product</string>
+    <string name="enter_new_email">Enter New Email</string>
+    <string name="enter_new_name">Enter New Name</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="save_informations">Save Informations</string>
+    <string name="confirm_password">Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

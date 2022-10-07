@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/text_round.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_chat_input.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_content_bottom.xml" value="0.175" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_content_top.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_icon.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_image.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_input.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_recived_message.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_search.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/background_sent_message.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/button_background_success.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/comment_bottom_sheet_corners.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/favorite.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_fiber_new_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_local_shipping_24.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_logout.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/id_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/logout.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/quantity_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/tab_selector.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/text_round_gray.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout-v23/activity_chat_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/action_bar_notification_icon.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_based_navigation.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_cart.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_ch_register.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_ch_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_ch_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_chat.xml" value="0.20675105485232068" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_chat_dialog.xml" value="0.14" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_chat_message.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_chat_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_favorite.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_list_users.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_logout.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_menu.xml" value="0.1703125" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_notifications.xml" value="0.1765625" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_order.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_product.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_product_detail.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_setting.xml" value="0.18" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_splash.xml" value="0.21" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_update_info.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_update_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_user_profile.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_users.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/add_to_cart_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/app_bar_main.xml" value="0.1703125" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/bottom_sheet_comment.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/cart_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/chat_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/comment_item.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/company_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/confirm_add_to_cart_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/content_main.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fav_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_gallery.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_slideshow.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/item_container_recent_conversation.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/item_container_recived_message.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/item_container_sent_message.xml" value="0.5" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/item_container_user.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/layout_chat_item.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/layout_message_friend.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/layout_message_text_friend.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/layout_message_text_own.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/layout_people.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/list_chat_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/list_recv_message.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/list_send_message.xml" value="0.31673582295988933" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/menu_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/my_success_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/notification_item_layout.xml" value="0.1765625" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/order_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/people_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/product_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/product_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/raiting_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/submit_order_layout.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/chat_dialog_menu.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/main_activity2.xml" value="0.184375" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/menu_action_bar.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/menu_search.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/show_order_bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/AppLogo.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/app_logo.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/app_logo_round.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/ALI/Desktop/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable-v24/cart.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable-v24/favorite.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable/favorite.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/drawable/text_round_gray.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/action_bar_notification_icon.xml" value="0.146875" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_favorite.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_home.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_product.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/activity_sign_in.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/add_to_cart_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/cart_item_layout.xml" value="0.33" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/company_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/confirm_add_to_cart_layout.xml" value="0.5122302158273381" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/fav_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/fragment_gallery.xml" value="0.1734375" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/fragment_slideshow.xml" value="0.1734375" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/menu_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/layout/product_item_layout.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/menu/main_activity2.xml" value="0.15625" />
+        <entry key="..\:/Users/ALI/Desktop/MyApplication4/app/src/main/res/menu/menu_action_bar.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/btn_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/cart.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/favorite.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/text_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_sign_in.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/app_bar_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/company_item_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/content_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/product_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication4/app/src/main/res/menu/main_activity2.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

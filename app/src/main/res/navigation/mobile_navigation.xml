@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <activity
+        android:id="@+id/nav_favorite"
+        android:name="com.Ali.PharmacistsApp.FavoriteActivity"
+        tools:layout="@layout/activity_favorite"/>
+
+    <activity
+        android:id="@+id/nav_order"
+        android:name="com.Ali.PharmacistsApp.OrderActivity"
+        tools:layout="@layout/activity_order"/>
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.Ali.PharmacistsApp.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/nav_setting"
+        android:name="com.Ali.PharmacistsApp.SettingActivity"
+        tools:layout="@layout/activity_setting" />
+
+    <activity
+        android:id="@+id/nav_logout"
+        android:name="com.Ali.PharmacistsApp.LogoutActivity"
+        tools:layout="@layout/activity_logout" />
+
+    <activity
+        android:id="@+id/nav_notification"
+        android:name="com.Ali.PharmacistsApp.NotificationsActivity"
+        tools:layout="@layout/activity_notifications" />
+
+    <activity
+        android:id="@+id/nav_chat"
+        android:name="com.Ali.PharmacistsApp.Chatting.ch_SignInActivity"
+        tools:layout="@layout/activity_main" />
+
+</navigation>
