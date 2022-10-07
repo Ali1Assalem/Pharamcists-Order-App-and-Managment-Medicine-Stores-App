@@ -8,7 +8,29 @@ Navigation Drawer ,Picasso ]
 1-branch master contain pharamcists order app <br>
 2-branch serever contain Laravel Server and MySql DB <br>
 
-# Main Features :books:
+## Getting started
+Clone this project and open with Android studio
+
+```
+git clone https://github.com/Ali1Assalem/Pharamcists-Order-App-and-Managment-Medicine-Stores-App.git
+```
+Start the XAMPP server
+
+```
+run Apache <br>
+run MySQL <br>
+Make sure you import database Sql file 'paharmacy DB.sql' in PhpMyAdmin 
+```
+And Start Laravel server 
+
+```
+php artisan serve --host=192.168.124.1 --port=8000
+```
+
+
+
+
+## Main Features :books:
 1. Java
 2. RXJava MultiThreading
 3. Retrofit
@@ -31,7 +53,7 @@ https://youtu.be/KFaxFhOc4V8
 
 <br><br>
 
-# Database Architecture
+## Database Architecture
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194556231-82429f34-c84f-49d7-b4ca-b8d1fa08d8e2.png" width="900" >
@@ -39,7 +61,7 @@ https://youtu.be/KFaxFhOc4V8
 <br>
 
 
-# Screenshots Pharmacists Order App
+## Screenshots Pharmacists Order App
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194555240-a9c31069-e05e-4b06-a0af-8ccd130c6086.png" width="200" >
@@ -93,7 +115,7 @@ https://youtu.be/KFaxFhOc4V8
 </p>
 <br>
 
-# Screenshots Managment Medicine Stores App
+## Screenshots Managment Medicine Stores App
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194551736-ec670b8a-cd39-416b-991f-e4b0b0bf90fc.png" width="200" >
@@ -132,7 +154,7 @@ https://youtu.be/KFaxFhOc4V8
 
 
 
-# Voyager Web Dashboard
+## Voyager Web Dashboard
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194558468-2229de65-a742-4bf5-81ec-34589fad2c86.png" width="900" >
