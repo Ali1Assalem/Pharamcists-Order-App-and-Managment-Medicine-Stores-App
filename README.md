@@ -29,14 +29,6 @@ https://youtu.be/KFaxFhOc4V8
 
 # Screenshots Pharmacists Order App
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76838562/194552969-d845ab10-b33a-4f7d-9a06-c11cc500532e.png" width="200" >
-  <img src="https://user-images.githubusercontent.com/76838562/194552994-db98a955-0a40-4391-a7e3-472841104e60.png" width="200" >
-  <img src="https://user-images.githubusercontent.com/76838562/194553052-c0abbd89-1a99-4e89-8287-25ec0ba3b795.png" width="200" >
-  <img src="https://user-images.githubusercontent.com/76838562/194553096-a92c9b41-aab0-4e4a-ae56-37114b5dd32c.png" width="200" >
-</p>
-<br>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/160255836-1d9b1b7b-aed8-487a-b8e1-785916ae3339.jpg" width="200" >
   <img src="https://user-images.githubusercontent.com/76838562/160255893-89bfe041-9dad-4e2d-8408-d89cfb32b41b.jpg" width="200" >
   <img src="https://user-images.githubusercontent.com/76838562/160256070-11448281-605a-475e-8103-622ea17a7780.jpg" width="200" >
@@ -75,15 +67,48 @@ https://youtu.be/KFaxFhOc4V8
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/160304975-2a853d03-9ca3-46ae-a241-5345aaa5279a.jpg" width="200" >
-  <img src="https://user-images.githubusercontent.com/76838562/194553333-3bccce25-7b25-40d3-a617-c773f802499c.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551811-67f6f46e-2acc-45d8-9ae2-8c6111b1a353.png" width="200" >
 </p>
 <br>
 
 # Screenshots Managment Medicine Stores App
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76838562/194550271-3396acd3-2e14-4a0e-8c1d-3262aa5b3aa8.png" height="500 width="1300" >
-
+  <img src="https://user-images.githubusercontent.com/76838562/194551736-ec670b8a-cd39-416b-991f-e4b0b0bf90fc.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551758-69238a60-7936-4d6e-8a17-474eb1d02ca2.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551245-14548b3e-c92f-4f48-9747-c1e97823930b.png" width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551294-d3cfd348-7ab2-4a67-b445-be25b73bdc05.png" width="200" >
 </p>
 <br>
+
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194551456-9b9e27e3-28c2-458d-95e5-3668fa116cc7.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551532-2eb72d63-6c0f-4aca-9989-bac34b8529d9.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551565-e7777d14-181f-450d-b671-7a39eacd351f.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551608-2a5a33fc-4036-4ab7-9339-731bf86f3c2b.png"  width="200" >
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194551633-a0db3480-ac8e-48f3-908f-03346e4797c2.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551680-28e6d51d-4ad8-485c-8fa0-fb14eb529921.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551693-7f53012e-d2b5-440c-a6d6-2f6762493e42.png"  width="200" >
+  <img src="https://user-images.githubusercontent.com/76838562/194551954-07bd5b17-7f99-4074-961a-0a7373d9d3bd.png"  width="200" >
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76838562/194552014-01593f4b-067a-43d2-b100-6d80af4d8972.png"  width="200" >
+</p>
+<br>
+
+
+
+
+
+
 
