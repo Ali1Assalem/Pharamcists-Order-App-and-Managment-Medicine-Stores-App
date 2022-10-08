@@ -1,11 +1,37 @@
-# Pharamcists-Order-App-and-Managment-Medicine-Stores-App
+## Pharamcists-Order-App-and-Managment-Medicine-Stores-App
 Android Pharmacists Order App And Managment Stores With Laravel and Voyager Dashboard , 
 
 This is a Pharamcists-Order-App-and-Managment-Medicine-Stores-App which has been implemented using
 [ Java ,RXJava MultiThreading ,Retrofit ,Room ,SharedPreferences ,Gson ,Laravel ,Voyager ,MySql ,Firebase ,Firestore ,FCM Push Notifications
 Navigation Drawer ,Picasso ]
 
-# Main Features :books:
+  1-branch master contain pharamcists order app <br>
+  2-branch serever contain Laravel Server and MySql DB <br>
+
+## Getting started
+Clone this project and open with Android studio
+
+```
+git clone https://github.com/Ali1Assalem/Pharamcists-Order-App-and-Managment-Medicine-Stores-App.git
+```
+Start the XAMPP Local server
+
+```
+run Apache 
+run MySQL
+Make sure you import database Sql file 'paharmacy DB.sql' in PhpMyAdmin 
+Go to Firebase 'https://firebase.google.com/' to create project and download your 'google-services.json' then add this file to android project in app file.
+```
+And Start Laravel server 
+
+```
+php artisan serve --host=192.168.124.1 --port=8000
+```
+
+
+
+
+## Main Features :books:
 1. Java
 2. RXJava MultiThreading
 3. Retrofit
@@ -28,7 +54,7 @@ https://youtu.be/KFaxFhOc4V8
 
 <br><br>
 
-# Database Architecture
+## Database Architecture
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194556231-82429f34-c84f-49d7-b4ca-b8d1fa08d8e2.png" width="900" >
@@ -36,7 +62,7 @@ https://youtu.be/KFaxFhOc4V8
 <br>
 
 
-# Screenshots Pharmacists Order App
+## Screenshots Pharmacists Order App
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194555240-a9c31069-e05e-4b06-a0af-8ccd130c6086.png" width="200" >
@@ -90,7 +116,7 @@ https://youtu.be/KFaxFhOc4V8
 </p>
 <br>
 
-# Screenshots Managment Medicine Stores App
+## Screenshots Managment Medicine Stores App
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194551736-ec670b8a-cd39-416b-991f-e4b0b0bf90fc.png" width="200" >
@@ -129,7 +155,7 @@ https://youtu.be/KFaxFhOc4V8
 
 
 
-# Voyager Web Dashboard
+## Voyager Web Dashboard
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76838562/194558468-2229de65-a742-4bf5-81ec-34589fad2c86.png" width="900" >
@@ -142,6 +168,33 @@ https://youtu.be/KFaxFhOc4V8
 
 </p>
 <br>
+
+## License
+```
+MIT License
+
+Copyright (c) 2022 Ali Assalem (https://github.com/Ali1Assalem/Pharamcists-Order-App-and-Managment-Medicine-Stores-App)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+
 
 ### Author
 
